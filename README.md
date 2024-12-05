@@ -43,3 +43,16 @@ To run this code:
 1. Save it as EcommercePlatform.java 
 2. Compile: javac EcommercePlatform.java 
 3. Run: java EcommercePlatform
+
+![image](https://github.com/user-attachments/assets/57c9dfb7-64a6-4a67-9f2d-e15ecee80db7)
+![image](https://github.com/user-attachments/assets/5c92d49f-995a-4592-bde9-a6e05e2ca5b8)
+![image](https://github.com/user-attachments/assets/2193e988-292b-49ea-a6e3-362f295e2b3e)
+
+![image](https://github.com/user-attachments/assets/0bf2d335-aaef-4e4d-8bb5-cb2166961c73)
+
+![image](https://github.com/user-attachments/assets/77c2ee4a-d211-44fc-98dd-d0c86fd77ba8)
+
+
+
+
+
